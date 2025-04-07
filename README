@@ -1,0 +1,5 @@
+Chinese Checkers Elisheva Friedlander 
+extensions:
+1. Termcolor library - adds colors to each players piece when running the game through the terminal.
+2. pytest - testing my board functions. 
+3. typing.
